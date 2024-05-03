@@ -11,4 +11,3 @@ $ need .env file to configure the basic settings
 $ npm run dev // for developer
 ```
 
-This will start backend, frontend and MongoDB.
